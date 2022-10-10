@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelAhm
 - 👀 I’m interested in web design and deveopment.
-- 🌱 I’m currently learning react.
+- 🌱 I’m currently learning react/svelt
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me my twitter account
 
